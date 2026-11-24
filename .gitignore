@@ -11,4 +11,5 @@ dist/
 __pycache__/
 *.py[cod]
 .codex/
-.claude/
+.claude/*
+!.claude/settings.json
