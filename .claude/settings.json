@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "agentic-gamedev-skills": {
+      "source": {
+        "source": "github",
+        "repo": "abagames/agentic-gamedev-skills"
+      }
+    }
+  }
+}
