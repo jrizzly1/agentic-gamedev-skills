@@ -5,6 +5,9 @@
 .agents/skills/browser-testing-with-devtools/
 .agents/skills/performance-optimization/
 .agents/skills/systematic-debugging/
+.agents/skills/remotion-*/
+.claude/skills/remotion-*
+skills-lock.json
 
 tmp/
 dist/
