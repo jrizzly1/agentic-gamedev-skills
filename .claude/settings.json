@@ -6,8 +6,5 @@
         "repo": "abagames/agentic-gamedev-skills"
       }
     }
-  },
-  "enabledPlugins": {
-    "one-button-game-builder@agentic-gamedev-skills": true
   }
 }
