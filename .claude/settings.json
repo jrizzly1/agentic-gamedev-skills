@@ -6,5 +6,8 @@
         "repo": "abagames/agentic-gamedev-skills"
       }
     }
+  },
+  "enabledPlugins": {
+    "superpowers@claude-plugins-official": true
   }
 }
